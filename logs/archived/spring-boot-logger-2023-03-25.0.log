@@ -1,0 +1,48 @@
+2023-03-25 23:36:53,149 INFO org.springframework.boot.StartupInfoLogger [main] Starting BookClientApplication using Java 1.8.0_221 on LAPTOP-AI358GDM with PID 23736 (C:\Users\bala4\Downloads\book client\book-client\target\classes started by bala4 in C:\Users\bala4\Downloads\book client\book-client)
+2023-03-25 23:36:53,159 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.7.11-SNAPSHOT, Spring v5.3.26
+2023-03-25 23:36:53,161 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-03-25 23:36:58,600 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2023-03-25 23:36:58,620 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-25 23:36:58,622 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2023-03-25 23:36:58,623 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.73]
+2023-03-25 23:36:59,464 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2023-03-25 23:36:59,465 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 6139 ms
+2023-03-25 23:37:00,997 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-03-25 23:37:01,058 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2023-03-25 23:37:01,147 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path '/bookstore'
+2023-03-25 23:37:01,191 INFO org.springframework.boot.StartupInfoLogger [main] Started BookClientApplication in 9.903 seconds (JVM running for 15.807)
+2023-03-25 23:37:09,862 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-25 23:37:09,863 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-2] Initializing Servlet 'dispatcherServlet'
+2023-03-25 23:37:09,865 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-2] Completed initialization in 1 ms
+2023-03-25 23:37:09,973 INFO com.client.book.controller.BookController [http-nio-8080-exec-2] Received request with bookId 123
+2023-03-25 23:37:13,010 INFO com.client.book.controller.BookController [http-nio-8080-exec-3] Received request with bookId 123
+2023-03-25 23:51:49,580 INFO org.springframework.boot.StartupInfoLogger [main] Starting BookClientApplication using Java 1.8.0_221 on LAPTOP-AI358GDM with PID 18812 (C:\Users\bala4\Downloads\book client\book-client\target\classes started by bala4 in C:\Users\bala4\Downloads\book client\book-client)
+2023-03-25 23:51:49,586 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.7.11-SNAPSHOT, Spring v5.3.26
+2023-03-25 23:51:49,588 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-03-25 23:51:53,182 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2023-03-25 23:51:53,205 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-25 23:51:53,206 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2023-03-25 23:51:53,207 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.73]
+2023-03-25 23:51:53,762 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2023-03-25 23:51:53,763 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 4069 ms
+2023-03-25 23:51:55,101 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-03-25 23:51:55,162 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2023-03-25 23:51:55,229 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path '/bookstore'
+2023-03-25 23:51:55,279 INFO org.springframework.boot.StartupInfoLogger [main] Started BookClientApplication in 6.704 seconds (JVM running for 7.586)
+2023-03-25 23:52:22,956 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-25 23:52:22,956 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2023-03-25 23:52:22,957 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 0 ms
+2023-03-25 23:52:23,021 INFO com.client.book.controller.BookController [http-nio-8080-exec-1] Received request with bookId 123
+2023-03-25 23:53:45,473 INFO org.springframework.boot.StartupInfoLogger [main] Starting BookClientApplication using Java 1.8.0_221 on LAPTOP-AI358GDM with PID 24132 (C:\Users\bala4\Downloads\book client\book-client\target\classes started by bala4 in C:\Users\bala4\Downloads\book client\book-client)
+2023-03-25 23:53:46,348 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.7.11-SNAPSHOT, Spring v5.3.26
+2023-03-25 23:53:46,348 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-03-25 23:53:50,691 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2023-03-25 23:53:50,718 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-25 23:53:50,723 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2023-03-25 23:53:50,723 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.73]
+2023-03-25 23:53:52,061 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2023-03-25 23:53:52,061 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 5533 ms
+2023-03-25 23:53:53,740 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-03-25 23:53:53,806 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2023-03-25 23:53:53,856 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path '/bookstore'
+2023-03-25 23:53:53,906 INFO org.springframework.boot.StartupInfoLogger [main] Started BookClientApplication in 9.189 seconds (JVM running for 12.507)
